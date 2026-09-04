@@ -1,0 +1,163 @@
+========================================================================
+KITTEHCOIN / $MEOW — CAPCUT AI MÜZİK + SES ÜRETİM KOMUTLARI (v2)
+========================================================================
+Bu dosya CapCut'ın "AI Müzik / Metinden Müzik" ve "Ses Efekti" üretim
+araçlarına doğrudan yapıştırılacak İngilizce komutlardır (AI müzik/ses
+modelleri İngilizce promptlarda daha tutarlı sonuç verir).
+
+
+------------------------------------------------------------------------
+1) ANA MÜZİK PROMPTU (20-25 saniyelik cinematic teaser score)
+------------------------------------------------------------------------
+Dark cinematic crypto trailer score, mysterious and premium, building
+tension from quiet dread to an epic payoff. Deep sub-bass drones, slow
+rising string ostinato, distant metallic percussion hits, soft digital
+glitch textures, no vocals. Should feel like a AAA game reveal trailer
+or a high-budget movie teaser — never cheesy, never generic EDM drop.
+
+TIMELINE:
+0.0–3.0s   — near silence, single low sub-bass pulse, distant heartbeat-like
+             kick every ~1s, faint high-frequency shimmer (unease, not yet scary)
+3.0–7.0s   — soft rising string/pad ostinato enters, subtle ticking/clock
+             percussion layered in, tension building but restrained
+7.0–11.0s  — a second layer joins (low brass swell or distorted synth),
+             rhythm accelerates slightly, occasional glitch/stutter FX
+11.0–14.0s — full crescendo, all layers driving, a hard rhythmic pulse
+14.0–14.8s — hard cut to near-total silence (just a faint low rumble) —
+             this is the "held breath" moment before the reveal
+15.0–15.6s — single massive cinematic bass hit / impact (sub-drop +
+             metallic braam), everything else silent around it
+15.6–19.0s — triumphant but restrained swell (warm pad + soft choir-like
+             tone), confident not celebratory, still mysterious
+19.0–20.0s (or end) — fade out, one last soft low tone lingering
+
+Mood keywords: dark, premium, mysterious, cinematic, suspenseful,
+restrained, confident, AAA trailer, no vocals, no cheesy synth leads.
+
+
+------------------------------------------------------------------------
+2) ALTERNATİF MÜZİK PROMPTU ("Uyuyan Dev" / gizemli-epik versiyon)
+------------------------------------------------------------------------
+Ancient, geological, slow-building epic score — think a giant waking
+underground. Very low sustained drone as a foundation, distant deep
+rock-cracking rhythmic hits (not literal foley, musical/tonal), a slow
+melodic motif on low strings or duduk-like woodwind entering around the
+midpoint, building to a single deep tectonic "impact" moment, then a
+short triumphant swell that stays dark/minor-key, never major/happy.
+No vocals, no traditional drum kit — texture and drone driven.
+
+
+------------------------------------------------------------------------
+3) SES EFEKTİ (SFX) PROMPT LİSTESİ
+------------------------------------------------------------------------
+Her satır CapCut'ın ses-efekti üretim/arama kutusuna ayrı ayrı girilecek
+kısa komuttur. Kategori başlıkları sadece senin için, kopyalarken sadece
+tırnaksız satırı yapıştır.
+
+-- YAĞMUR / FIRTINA --
+Soft distant rain ambience, subtle, no wind
+Heavy rain on glass, moody atmosphere loop
+Distant thunder rumble, low and far away
+Sharp close lightning crack, single hit, cinematic
+Rain intensifying transition, 2 second swell
+
+-- BOZUK PARA / METAL PARA --
+Single coin drop on hard surface, clean metallic
+Coins pouring/cascading, short burst, cinematic
+Coin spin and settle, metallic ring tail
+Subtle coin jingle, soft, background texture
+Heavy gold coin impact, deep metallic thud
+
+-- GEÇİŞ / WHOOSH --
+Fast cinematic whoosh transition, low to high pitch
+Subtle digital glitch transition, short stutter
+Riser whoosh building tension, 1.5 second
+Reverse cymbal swell into hit
+Soft air swoosh, minimal, for card flip transitions
+
+-- İMPACT / VURGU --
+Deep cinematic bass impact hit, sub-heavy
+Metallic braam hit, trailer style, dramatic
+Soft muffled impact, felt not heard, subtle
+Glass shatter subtle version, not literal, textural only
+
+-- KAPANIŞ / OUTRO --
+Soft low drone fade out, cinematic ending
+Single warm bell tone, resolving, calm ending
+Digital power-down hum, subtle fade
+Distant echo tail, ambient fade to silence
+
+-- ATMOSFER / DOKU --
+Low frequency room tone, tense, subtle
+Soft static/digital hiss texture, background
+Distant metallic resonance, ambient drone
+Subtle heartbeat pulse, slow, tension building
+
+
+------------------------------------------------------------------------
+4) GÖRSEL / DOKU (VIDEO OVERLAY) ÜRETİM PROMPTLARI
+------------------------------------------------------------------------
+CapCut'ın AI görsel/video üretim aracına tek tek yapıştırılacak
+komutlar. Bunlar CSS ile yapamadığımız gerçek doku/overlay klipleri —
+üretince mix-blend-mode:screen ile Remotion sahnelerine gömerim.
+
+-- DUMAN (en yüksek öncelik) --
+Slow volumetric smoke drifting upward, pure black background, warm gold
+light catching the smoke, loopable, cinematic haze, no people
+Thick fog rolling slowly, black background, subtle gold rim light,
+atmospheric, vertical 9:16 frame
+
+-- YAĞMUR (Storm varyantı için) --
+Rain streaks falling, black background, backlit by warm gold light,
+slow motion, transparent-looking, cinematic, vertical 9:16
+Heavy rain against dark glass, gold light reflections, moody, no people
+
+-- ŞİMŞEK --
+Single lightning flash, pure white, black background, one frame flash,
+cinematic trailer style, high contrast
+Distant lightning flickering on the horizon, dark stormy sky, subtle
+
+-- VOLUMETRİK IŞIK / TOZ ZERRESİ --
+Warm gold volumetric light rays in total darkness, floating dust
+particles drifting slowly through the light beam, cinematic, no people,
+vertical 9:16
+Slow drifting golden dust motes in a dark room, single light source,
+atmospheric, loopable
+
+-- DOKU (STILL GÖRSEL) --
+Dark brushed metal vault door texture, subtle gold light reflection,
+extreme close-up, cinematic, no text, no logos
+Ancient cracked stone/rock surface texture, dark, glowing gold cracks
+running through it, close-up, cinematic, no text
+
+-- KART/METAL DOKUSU --
+Dark holographic foil card surface texture, subtle gold iridescent
+sheen, close-up, premium, no text, no logos
+
+
+------------------------------------------------------------------------
+5) REFERANS KART GÖRSELLERİ
+------------------------------------------------------------------------
+Masaüstü/kartlar/ klasöründe 6 temiz kart fotoğrafı var:
+card_bitcoin.png, card_ethereum.png, card_solana.png, card_doge.png,
+card_shiba.png, card_meow.png — bunları CapCut'a görsel/asset olarak
+sürükleyip müzik/SFX senkronize ederken zaman çizelgesinde referans
+görüntü olarak kullanabilirsin (hangi vuruşta hangi kart ekranda,
+görerek karar vermek için).
+
+
+------------------------------------------------------------------------
+6) KULLANIM NOTU
+------------------------------------------------------------------------
+- Müzik promptunu CapCut AI Music'e verirken süreyi (20s / 25s) ayarla,
+  "no vocals" ve "cinematic trailer" vurgusunu koru — bunlar model
+  davranışını en çok etkileyen anahtar kelimeler.
+- SFX'leri tek tek üret, sonra bizim ffmpeg/Remotion pipeline'ında
+  amix + adelay ile sahnenin tam saniyesine (impact, coin, whoosh vb.)
+  hizalarız — CapCut içinde zaten hizalıyorsan direkt oradan da export
+  edip bana verebilirsin, ben videoya gömerim.
+- Yağmur/şimşek setini özellikle "uyuyan dev" ve olası yeni "fırtına"
+  temalı senaryolar için hazırladım — istersen bir sonraki video bu
+  atmosferi merkeze alabilir (kasvetli, yağmurlu bir gece, şimşekler
+  arasında logo reveal).
+========================================================================

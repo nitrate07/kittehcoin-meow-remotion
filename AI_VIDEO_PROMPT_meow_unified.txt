@@ -1,0 +1,94 @@
+========================================================================
+KITTEHCOIN / $MEOW — UNIFIED AI VIDEO GENERATION PROMPT
+(synthesized from the shared DNA of all 4 Desktop videos: Teaser,
+Vault, Signal, Giant)
+========================================================================
+Paste this into a text-to-video AI tool (Sora, Runway, Kling, Veo,
+Luma, Pika, etc.) to generate a new video that inherits the same
+visual identity, mood and brand language as the existing set.
+
+
+------------------------------------------------------------------------
+MASTER PROMPT
+------------------------------------------------------------------------
+A premium, mysterious cinematic crypto trailer in vertical 9:16 format,
+shot like a AAA game reveal or a high-budget movie teaser. Extremely
+dark environment — near-black background, deep shadows, high contrast.
+The only light source is a warm gold glow (color like #ffd76a / #d4a017)
+that pulses, sweeps, and reveals objects out of darkness. Subtle
+volumetric haze and floating dust particles catch the light. Slow,
+deliberate camera moves — gentle push-ins, soft parallax, no shaky or
+frantic motion. Everything feels restrained, confident and expensive,
+never cheesy, never covered in generic neon or stock-template effects.
+
+Recurring motifs that MUST appear or be echoed:
+- A small glowing gold paw-print icon/emblem as the brand mark
+- The wordmark "$MEOW" in bold gold-gradient premium typography, with
+  "KITTEHCOIN" in smaller elegant tracked-out caps beneath it
+- A moment of complete blackout / held silence right before the payoff
+- Tiny glowing gold particles that drift inward and converge to form
+  the logo (or a card, or a light source) — never an abrupt cut, always
+  a felt build-up
+- A closing signature, extremely small and unobtrusive, reading
+  "DESIGN BY NITRAEX", bottom of frame, low opacity, never competing
+  with the main logo
+- A slow cinematic fade to black as the final beat
+
+Tone: enigmatic, restrained, premium — like the audience is being let
+in on a secret, not sold something. No price talk, no "buy now", no
+guarantees, no explicit financial claims, no URLs, no contract
+addresses. The video should make the viewer curious, not pressured.
+
+Camera/lighting language to reuse in the prompt:
+"cinematic lighting, volumetric gold light in total darkness, shallow
+depth of field, slow push-in camera, floating dust particles catching
+light, high contrast, premium typography reveal, restrained AAA trailer
+pacing, 9:16 vertical, no text overlays except the described wordmark,
+no logos of real companies, no visible cast/crew, mysterious atmosphere"
+
+
+------------------------------------------------------------------------
+OPTIONAL SCENE VARIANTS (pick one to specialize the same DNA)
+------------------------------------------------------------------------
+A) STORM VARIANT
+   "...set during a quiet rainstorm at night, rain visible as thin
+   streaks lit by the gold glow, a single distant lightning flash
+   timed with the logo reveal, water reflections on a dark surface..."
+
+B) VAULT VARIANT
+   "...a circular vault door built of dark metal, a thin seam of gold
+   light widening as it opens, warm haze escaping, an object rising
+   slowly from within toward camera..."
+
+C) AWAKENING VARIANT
+   "...an enormous dormant shape at the base of frame, breathing subtly,
+   thin cracks of gold light spreading across its surface as if
+   something ancient is stirring beneath..."
+
+D) SIGNAL VARIANT
+   "...concentric radar-like rings sweeping slowly in the dark, faint
+   scanline glitches, as if an old broadcast signal is being
+   intercepted, gold particles arriving like data condensing into
+   form..."
+
+
+------------------------------------------------------------------------
+NEGATIVE PROMPT (what to explicitly exclude)
+------------------------------------------------------------------------
+no bright colors, no daylight, no cheerful mood, no cartoon style, no
+generic neon cyberpunk cliché, no stock countdown template look, no
+shaky handheld camera, no fast strobing cuts, no visible price charts,
+no wallet UI, no real brand logos, no human faces, no text other than
+the wordmark and signature described above
+
+
+------------------------------------------------------------------------
+USAGE NOTE
+------------------------------------------------------------------------
+Bu prompt 4 videonun (Teaser/Vault/Signal/Giant) ortak görsel dilini
+(altın ışık, karanlık, paw+$MEOW logosu, parçacık-birleşme reveal, çok
+küçük imza, kararma) tek bir jenerik komuta sıkıştırıyor. Herhangi bir
+text-to-video modeline verip yeni bir varyant üretebilirsin; çıkan
+video ham görüntü olarak gelir, ben istersen onu alıp Remotion/ffmpeg
+pipeline'ında müzik+SFX ile son haline getiririm.
+========================================================================

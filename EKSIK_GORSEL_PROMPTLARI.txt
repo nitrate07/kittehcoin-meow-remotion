@@ -1,0 +1,55 @@
+========================================================================
+KITTEHCOIN / $MEOW — EKSİK GÖRSEL OVERLAY PROMPTLARI
+========================================================================
+Durum: SES TAMAM (29/29 dosya, hiç eksik yok).
+Eksik olan sadece bu 7 GÖRSEL doku/overlay — hiçbiri henüz üretilmedi.
+CapCut'ın AI görsel/video üretim aracına tek tek yapıştır.
+
+
+1) DUMAN (öncelik 1 — en büyük kalite farkını bu yaratır)
+------------------------------------------------------------------------
+Slow volumetric smoke drifting upward, pure black background, warm gold
+light catching the smoke, loopable, cinematic haze, no people
+
+
+2) YAĞMUR VİDEO OVERLAY (öncelik 2 — "Storm" senaryosu için)
+------------------------------------------------------------------------
+Rain streaks falling, black background, backlit by warm gold light,
+slow motion, transparent-looking, cinematic, vertical 9:16
+
+
+3) ŞİMŞEK FLAŞ KLİP
+------------------------------------------------------------------------
+Single lightning flash, pure white, black background, one frame flash,
+cinematic trailer style, high contrast
+
+
+4) VOLUMETRİK IŞIK / TOZ ZERRESİ
+------------------------------------------------------------------------
+Warm gold volumetric light rays in total darkness, floating dust
+particles drifting slowly through the light beam, cinematic, no people,
+vertical 9:16
+
+
+5) KASA METAL DOKUSU (still görsel)
+------------------------------------------------------------------------
+Dark brushed metal vault door texture, subtle gold light reflection,
+extreme close-up, cinematic, no text, no logos
+
+
+6) KAYA/TAŞ DOKUSU — "Uyuyan Dev" için (still görsel)
+------------------------------------------------------------------------
+Ancient cracked stone/rock surface texture, dark, glowing gold cracks
+running through it, close-up, cinematic, no text
+
+
+7) KART FOLYO DOKUSU (still görsel)
+------------------------------------------------------------------------
+Dark holographic foil card surface texture, subtle gold iridescent
+sheen, close-up, premium, no text, no logos
+
+
+------------------------------------------------------------------------
+Not: Bunlar bitince at, mix-blend-mode:screen ile Remotion sahnelerine
+gömerim — CSS/SVG duman-parçacık taklitlerinin yerini gerçek doku alır.
+========================================================================
